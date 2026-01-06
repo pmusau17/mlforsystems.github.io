@@ -121,7 +121,7 @@ site_title: ML For Systems
 		<section class="main-content">
 			<h2>Organizing Committee</h2>
 			<ul>
-				<li><b>Mimee Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
+				<li><b>Mimee Xu</b>, NYU Law/Berkeley LBL, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
                 <li><b>Dan Zhang</b>, Google DeepMind, <a href="https://www.linkedin.com/in/danzhang3">LinkedIn</a></li>
                 <li><b>Phitchaya Mangpo Phothilimthana</b>, OpenAI, <a href="https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana">LinkedIn</a></li>
                 <li><b>Divya Mahajan</b>, Georgia Tech, <a href="https://twitter.com/divyamahajn">@DivyaMahajn</a></li>
